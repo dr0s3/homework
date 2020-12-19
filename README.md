@@ -4,9 +4,9 @@
 
 --front							   --html
 
-----user							  ----hichat-web
+--front/user					 --html/hichat-web
 
-----admin						  ----hichat
+--front/admin					--html/hichat
 
 --db								   --db
 
