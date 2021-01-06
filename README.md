@@ -10,4 +10,4 @@
 
 --db								   --db
 
---图片目录/hichat			--res
+--res			--图片目录/hichat
